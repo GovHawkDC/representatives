@@ -1,0 +1,10 @@
+born: {empty: true, type: date}
+died: {empty: true, type: date}
+gender:
+  allowed: [F, M, O]
+  empty: true
+  type: string
+birth_city: {empty: true, type: string}
+birth_state: {empty: true, type: string}
+birth_country: {empty: true, type: string}
+birth_ocd_division: {empty: true, type: string}

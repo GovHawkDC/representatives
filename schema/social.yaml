@@ -1,0 +1,7 @@
+facebook: {empty: true, type: [string, list]}
+instagram: {empty: true, type: [string, list]}
+instagram_id: {empty: true, type: [string, list]}
+twitter: {empty: true, type: [string, list]}
+twitter_id: {empty: true, type: [string, list]}
+youtube: {empty: true, type: [string, list]}
+youtube_id: {empty: true, type: [string, list]}

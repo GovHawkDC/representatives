@@ -1,0 +1,8 @@
+first: {empty: true, type: string}
+full: {required: true, empty: false, type: string}
+last: {empty: true, type: string}
+middle: {empty: true, type: string}
+middle_initial: {empty: true, type: string}
+nickname: {empty: true, type: string}
+suffixes: {empty: true, type: string}
+aliases: {empty: true, type: list}

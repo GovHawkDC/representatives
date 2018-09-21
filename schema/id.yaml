@@ -1,0 +1,60 @@
+ballotpedia:
+  empty: true
+  type: [string, list]
+bioguide:
+  empty: true
+  type: [string, list]
+cspan:
+  empty: true
+  type: [string, list]
+fec:
+  empty: true
+  type: [string, list]
+google_entity_id:
+  empty: true
+  type: [string, list]
+govhawk:
+  empty: true
+  type: [string]
+govtrack:
+  empty: true
+  type: [string, list]
+house_history:
+  empty: true
+  type: [string, list]
+icps_prez:
+  empty: true
+  type: [string, list]
+icpsr:
+  empty: true
+  type: [string, list]
+jurisdiction_id:
+  empty: true
+  type: [string, list]
+lis:
+  empty: true
+  type: [string, list]
+maplight:
+  empty: true
+  type: [string, list]
+nimsp:
+  empty: true
+  type: [string, list]
+opensecrets:
+  empty: true
+  type: [string, list]
+openstates:
+  empty: true
+  type: [string, list]
+thomas:
+  empty: true
+  type: [string, list]
+transparencydata:
+  empty: true
+  type: [string, list]
+wikidata:
+  empty: true
+  type: [string]
+wikipedia:
+  empty: true
+  type: [string, list]

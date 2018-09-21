@@ -1,0 +1,22 @@
+district: {empty: true, type: string}
+end: {empty: true, type: date}
+nameasdfs: {empty: true, type: string}
+ocd_division: {required: true, empty: false, type: string}
+party:
+  allowed: [Republican, Democrat, Independent, Nonpartisan, Other]
+  empty: true
+  type: string
+party_string: {empty: true, type: string}
+senate_rank:
+  allowed: [junior, senior]
+  empty: true
+  type: string
+start: {empty: true, type: date}
+state: {required: true, empty: false, type: string}
+type:
+  allowed: [state-rep, state-sen, fed-rep, fed-sen, governor, president]
+  required: true
+  type: string
+contacts:
+  type: list
+  schema: contact
